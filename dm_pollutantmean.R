@@ -1,6 +1,4 @@
----
-title: "Pollutantmean Function"
----
+
 
 pollutantmean <- function(directory, pollutant, id = 1:332) {
 	
