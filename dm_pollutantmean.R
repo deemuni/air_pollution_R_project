@@ -1,3 +1,7 @@
+---
+title: "Pollutantmean Function"
+---
+
 pollutantmean <- function(directory, pollutant, id = 1:332) {
 	
 	## directory argument is a CHAR vector of length 1 indicating the location of the CSV files
